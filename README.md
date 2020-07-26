@@ -29,6 +29,7 @@ After installing all the related npm packages, just start the server by typing "
 
 Open your browser and go to http://localhost:3000/cover . If all goes well then you will see the "Welcome Page".
 
+![](Snapshot/cover.png)
 
 
 
