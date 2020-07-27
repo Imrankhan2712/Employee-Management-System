@@ -51,13 +51,13 @@ In the Dashboard, you can see all the records of No of Department, Designation, 
 
 ![](Snapshot/Dashboard.png)
 
-In the sidabar, here we have several tabs contain options to manipulate like in ADD DEPARTMENT tab you can add the Department or in VIEW DEPARTMENT tab you can see the list of it and so on.
+In the sidabar, here we have several tabs contain options to manipulate like in Add Department tab you can add the Department or in View Department tab you can see the list of it and so on.
 
 ![](Snapshot/Add%20Department.png)
 
 ![](Snapshot/Department%20List.png)
 
-
+If You wish to Add something more in this Project, Go Ahead!
 
 
 
