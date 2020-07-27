@@ -57,6 +57,23 @@ In the sidabar, here we have several tabs contain options to manipulate like in 
 
 ![](Snapshot/Department%20List.png)
 
+![](Snapshot/Add%20Designation.png)
+
+![](Snapshot/Designation%20List.png)
+
+![](Snapshot/Add%20Employee.png)
+
+![](Snapshot/Employee%20List.png)
+
+![](Snapshot/Employee%20List%202.png)
+
+![](Snapshot/Employee%20List%20For%20Salary.png)
+
+![](Snapshot/Assign%20Salary.png)
+
+![](Snapshot/Salary%20List.png)
+
+
 If You wish to Add something more in this Project, Go Ahead!
 
 
