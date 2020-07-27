@@ -39,13 +39,24 @@ Now we have to install all the packages related to this project one by one as fo
 
 13.	Open your browser and go to http://localhost:3000/cover . If all goes well then you will see the "Welcome Page".
 
-	![](Snapshot/cover.png)
+![](Snapshot/cover.png)
 	
 From here, you can SignUp yourself and then Login to reach the dashboard to stores, manages and manipulates the employee data.
 
-	![](Snapshot/login.png)
-	
-	![](Snapshot/signup.png)
+![](Snapshot/login.png)
+
+![](Snapshot/signup.png)
+
+In the Dashboard, you can see all the records of No of Department, Designation, Employee and Salary.
+
+![](Snapshot/Dashboard.png)
+
+In the sidabar, here we have several tabs contain options to manipulate like in ADD DEPARTMENT tab you can add the Department or in VIEW DEPARTMENT tab you can see the list of it and so on.
+
+![](Snapshot/Add%20Department.png)
+
+![](Snapshot/Department%20List.png)
+
 
 
 
