@@ -39,7 +39,7 @@ Now we have to install all the packages related to this project one by one as fo
 
 13.	Open your browser and go to http://localhost:3000/cover . If all goes well then you will see the "Welcome Page".
 
-![](Snapshot/cover.png)
+		![](Snapshot/cover.png)
 
 
 
