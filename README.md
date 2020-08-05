@@ -5,7 +5,8 @@ It used to stores, manages and manipulates the employee data. For this project, 
 At the beginning, just download the project and open in your text editor like VS Code. If you are using VS Code then simply open the folder in it.
 VS Code comes with in-built terminal, go to the terminal and type "npm install" to install all the dependencies into the environment.
 
-Otherwise you can type it in the Command Prompt by adding the path of the folder. 
+Otherwise you can type it in the Command Prompt by adding the path of the folder.
+Remember we must have Nodejs installed in our system, Otherwise npm will not work. So install it from its official site https://nodejs.org/en/.
 
 Now we have to install all the packages related to this project one by one as follows:
 
@@ -24,20 +25,18 @@ Now we have to install all the packages related to this project one by one as fo
 
 6.	We have also used mongoose to connect Mongodb Compass with HTML. So type "npm install mongoose" in the terminal. For more info visit https://www.npmjs.com/package/mongoose.
 
-7.	We have also used Nodejs in the backend to get and post data. So install it from its official site https://nodejs.org/en/.
-
-8.	We have also used bcryptjs to encode the password stored in Mongodb Compass. So type "npm install bcryptjs" in the terminal. 
+7.	We have also used bcryptjs to encode the password stored in Mongodb Compass. So type "npm install bcryptjs" in the terminal. 
 	For more info visit https://www.npmjs.com/package/bcryptjs.
 	
-9.	We have also used express-valiadator, type "npm install express-validator" in the terminal to install it. For more info visit https://www.npmjs.com/package/express-validator
+8.	We have also used express-valiadator, type "npm install express-validator" in the terminal to install it. For more info visit https://www.npmjs.com/package/express-validator
 
-10.	For Database we have used Mongodb. So install Mongodb Compass and make cluster using Atlas. For more info visit https://www.mongodb.com/. 
+9.	For Database we have used Mongodb. So install Mongodb Compass and make cluster using Atlas. For more info visit https://www.mongodb.com/. 
 
-11.	We have also used nodemon for starting the server. So type "npm install nodemon" in the terminal to add it.
+10.	We have also used nodemon for starting the server. So type "npm install nodemon" in the terminal to add it.
 
-12.	After installing all the related npm packages, just start the server by typing "nodemon" in the terminal.
+11.	After installing all the related npm packages, just start the server by typing "nodemon" in the terminal.
 
-13.	Open your browser and go to http://localhost:3000/cover . If all goes well then you will see the "Welcome Page".
+12.	Open your browser and go to http://localhost:3000 . If all goes well then you will see the "Welcome Page".
 
 ![](Snapshot/cover.png)
 	
